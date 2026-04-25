@@ -22,3 +22,13 @@
 Homestead.json
 Homestead.yaml
 Thumbs.db
+
+/Microservice/venv
+/Microservice/ApiGateway/_pycache_
+/Microservice/ApiGateway/node_modules
+/Microservice/Customer-service/_pycache_
+/Microservice/Customer-service/requirements.txt
+/Microservice/Order-service/_pycache_
+/Microservice/Order-service/requirements.txt
+/Microservice/Product-service/_pycache_
+/Microservice/Product-service/requirements.txt
