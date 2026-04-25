@@ -23,7 +23,14 @@ Backend/Homestead.json
 Backend/Homestead.yaml
 Thumbs.db
 
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
 Microservice/venv
+Microservice/**/__pycache__/
+*.pyc
 Microservice/ApiGateway/_pycache_
 Microservice/ApiGateway/node_modules
 Microservice/Customer-service/_pycache_
